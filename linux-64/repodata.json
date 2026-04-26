@@ -1,9 +1,9 @@
 {
   "info": {
-    "subdir": "linux-64"
+    "subdir": "linux-64",
+    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.04.08/"
   },
   "repodata_version": 2,
-  "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.04.08",
   "packages": {},
   "packages.conda": {
     "ikafssn_0.1.2026.04.08_linux-64.conda": {
