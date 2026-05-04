@@ -24,14 +24,14 @@
         "libzlib >=1.3.2,<2.0a0",
         "lmdb >=0.9.35,<0.10.0a0",
         "openssl >=3.6.2,<4.0a0",
-        "tbb >=2022.3.0",
+        "tbb >=2023.0.0",
         "xz",
         "zlib"
       ],
-      "md5": "c399bda90ae68de44f7d5dffba4a996f",
-      "sha256": "1bd18b8e8c0e02c7c97b646289a84b8a44a943199399de3376e4da3503124e06",
-      "size": 26390782,
-      "timestamp": 1777872454016
+      "md5": "ffd56dd755e1759c0308a74ba58f324c",
+      "sha256": "2c2098dca08e86924db0d882748db8a4a1f1bb795d2f992b4c701853bee88e9e",
+      "size": 26401918,
+      "timestamp": 1777890177677
     }
   },
   "removed": []
