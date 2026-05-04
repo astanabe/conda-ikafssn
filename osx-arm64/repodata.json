@@ -28,10 +28,10 @@
         "xz",
         "zlib"
       ],
-      "md5": "ffd56dd755e1759c0308a74ba58f324c",
-      "sha256": "2c2098dca08e86924db0d882748db8a4a1f1bb795d2f992b4c701853bee88e9e",
-      "size": 26401918,
-      "timestamp": 1777890177677
+      "md5": "24e4532996da7e2f70191a7f6f2245e2",
+      "sha256": "ef4afab4855cd9f043941a6c8edf66141a77d5f149fc9ae7585c193e97a5edbe",
+      "size": 26362672,
+      "timestamp": 1777901884560
     }
   },
   "removed": []
