@@ -26,12 +26,13 @@
         "openssl >=3.6.2,<4.0a0",
         "tbb >=2023.0.0",
         "xz",
-        "zlib"
+        "zlib",
+        "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "06a34cd9089d4f3cf9d6d3226eaad816",
-      "sha256": "a5ee1123a16626c4ecb4ffa610a5d901f1bc4641ccc9b61d4956f0c9d13dbc27",
-      "size": 26424802,
-      "timestamp": 1777913205736
+      "md5": "2fb0d01521b91dd37607c125ec0610fc",
+      "sha256": "84cbfaa8ef31ce87b08ff26975dfa45ef2e17d843d1f9c108278ac4e761ce881",
+      "size": 26438342,
+      "timestamp": 1777955751617
     }
   },
   "removed": []
