@@ -31,10 +31,10 @@
         "zlib",
         "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "6f62445cfcbbdbb457a80d8c8d833d2c",
-      "sha256": "f53df015302525a7b79a32747fe16db3f8c87be8ff56e728f35527d57b90820c",
-      "size": 78675189,
-      "timestamp": 1779010422328
+      "md5": "2c56c723b9d5c373606f1d893dc3e742",
+      "sha256": "248a5aa24de086819c5594b1490f7232514158567aabfc1d24044bd0a86d181b",
+      "size": 78704856,
+      "timestamp": 1779013310435
     }
   },
   "removed": []
