@@ -1,14 +1,14 @@
 {
   "info": {
     "subdir": "linux-64",
-    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.05.17/"
+    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.06.06/"
   },
   "repodata_version": 2,
   "packages": {},
   "packages.conda": {
-    "ikafssn_0.1.2026.05.17_linux-64.conda": {
+    "ikafssn_0.1.2026.06.06_linux-64.conda": {
       "name": "ikafssn",
-      "version": "0.1.2026.05.17",
+      "version": "0.1.2026.06.06",
       "build": "hd754ae5_0",
       "build_number": 0,
       "subdir": "linux-64",
@@ -20,9 +20,9 @@
         "libdeflate >=1.25,<1.26.0a0",
         "libgcc >=15",
         "liblzma >=5.8.3,<6.0a0",
-        "libsqlite >=3.53.1,<4.0a0",
+        "libsqlite >=3.53.2,<4.0a0",
         "libstdcxx >=15",
-        "libuuid >=2.42,<3.0a0",
+        "libuuid >=2.42.1,<3.0a0",
         "libzlib >=1.3.2,<2.0a0",
         "lmdb >=0.9.35,<0.10.0a0",
         "openssl >=3.6.2,<4.0a0",
@@ -31,10 +31,10 @@
         "zlib",
         "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "6074ff06583e5a916a06a2fa4e4daa96",
-      "sha256": "8ee7259870752911ffac50d80606a025d2fbf19d1975dd12ef999d55a236c8a9",
-      "size": 85885398,
-      "timestamp": 1779023281901
+      "md5": "01fb58965e221135a54b1f997777ab61",
+      "sha256": "1ecaf1aee909dfd843af48324aa3f94d097078f13f108a4f22a49046165ea6bc",
+      "size": 85979155,
+      "timestamp": 1780693971362
     }
   },
   "removed": []
