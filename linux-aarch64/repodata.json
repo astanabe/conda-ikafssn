@@ -1,28 +1,28 @@
 {
   "info": {
     "subdir": "linux-aarch64",
-    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.06.16/"
+    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.08.02/"
   },
   "repodata_version": 2,
   "packages": {},
   "packages.conda": {
-    "ikafssn_0.1.2026.06.16_linux-aarch64.conda": {
+    "ikafssn_0.1.2026.08.02_linux-aarch64.conda": {
       "name": "ikafssn",
-      "version": "0.1.2026.06.16",
+      "version": "0.1.2026.08.02",
       "build": "h07b6d00_0",
       "build_number": 0,
       "subdir": "linux-aarch64",
       "depends": [
         "__glibc >=2.34,<3.0.a0",
         "bzip2 >=1.0.8,<2.0a0",
-        "jsoncpp >=1.9.7,<1.9.8.0a0",
-        "libcurl >=8.20.0,<9.0a0",
+        "jsoncpp >=1.9.8,<1.9.9.0a0",
+        "libcurl >=8.21.0,<9.0a0",
         "libdeflate >=1.25,<1.26.0a0",
-        "libgcc >=15",
+        "libgcc >=16",
         "liblzma >=5.8.3,<6.0a0",
-        "libsqlite >=3.53.2,<4.0a0",
-        "libstdcxx >=15",
-        "libuuid >=2.42.1,<3.0a0",
+        "libsqlite >=3.53.4,<4.0a0",
+        "libstdcxx >=16",
+        "libuuid >=2.42.2,<3.0a0",
         "libzlib >=1.3.2,<2.0a0",
         "lmdb >=0.9.35,<0.10.0a0",
         "openssl >=3.6.3,<4.0a0",
@@ -31,10 +31,10 @@
         "zlib",
         "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "a0919385aaf7ebc09094f95b11bdc4be",
-      "sha256": "8454c0d5ed4fa18ca740950af9751813f1df6f023081c0af6c44f0bc089724f9",
-      "size": 78666318,
-      "timestamp": 1781603209735
+      "md5": "614d161485cd5d5e248d0d8e183d1546",
+      "sha256": "098a4d8ec6676743d785abd361cc4978ddfc05fa4e26f4295d21ac377cafc25b",
+      "size": 76453677,
+      "timestamp": 1785609000484
     }
   },
   "removed": []
