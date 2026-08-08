@@ -1,14 +1,14 @@
 {
   "info": {
     "subdir": "linux-aarch64",
-    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.08.02/"
+    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.08.08/"
   },
   "repodata_version": 2,
   "packages": {},
   "packages.conda": {
-    "ikafssn_0.1.2026.08.02_linux-aarch64.conda": {
+    "ikafssn_0.1.2026.08.08_linux-aarch64.conda": {
       "name": "ikafssn",
-      "version": "0.1.2026.08.02",
+      "version": "0.1.2026.08.08",
       "build": "h07b6d00_0",
       "build_number": 0,
       "subdir": "linux-aarch64",
@@ -31,10 +31,10 @@
         "zlib",
         "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "4214c15e61942f69309feeed4b93ddd0",
-      "sha256": "369e163c27d2c73cd6a19e21222f4db5ab2053856ee408a2bcd2b7a346a88a62",
-      "size": 76559456,
-      "timestamp": 1785613948017
+      "md5": "787c5e4b9c69b428703813cfec03b1d5",
+      "sha256": "2c2d8fa217e6b47f877993814b0b660fa0a3f179b312663d6a8ffc1e904914bc",
+      "size": 76864541,
+      "timestamp": 1786163857850
     }
   },
   "removed": []
