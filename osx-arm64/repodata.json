@@ -1,14 +1,14 @@
 {
   "info": {
     "subdir": "osx-arm64",
-    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.10.27/"
+    "base_url": "https://github.com/astanabe/ikafssn/releases/download/v0.1.2026.10.28/"
   },
   "repodata_version": 2,
   "packages": {},
   "packages.conda": {
-    "ikafssn_0.1.2026.10.27_osx-arm64.conda": {
+    "ikafssn_0.1.2026.10.28_osx-arm64.conda": {
       "name": "ikafssn",
-      "version": "0.1.2026.10.27",
+      "version": "0.1.2026.10.28",
       "build": "hf106a70_0",
       "build_number": 0,
       "subdir": "osx-arm64",
@@ -29,10 +29,10 @@
         "zlib",
         "zstd >=1.5.7,<1.6.0a0"
       ],
-      "md5": "f1f8874aa828937d77fc413137e46995",
-      "sha256": "f93460b25e5ff0587fa31bd36e0fa58021cd96e3eb06b73315795289409802c2",
-      "size": 26868886,
-      "timestamp": 1793079669304
+      "md5": "c96826bfe464734f71b010572cf4b1c9",
+      "sha256": "d11e2c1777e6a628fef22ea476d8e98c95bac3697c07371cdbfb02b929f86c7a",
+      "size": 26949204,
+      "timestamp": 1793164826266
     }
   },
   "removed": []
